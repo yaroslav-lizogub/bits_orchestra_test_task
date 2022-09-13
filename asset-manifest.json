@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/bits_orchestra_test_task/static/css/main.31d6cfe0.css",
+    "main.js": "/bits_orchestra_test_task/static/js/main.063876be.js",
+    "index.html": "/bits_orchestra_test_task/index.html",
+    "main.063876be.js.map": "/bits_orchestra_test_task/static/js/main.063876be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.063876be.js"
+  ]
+}
